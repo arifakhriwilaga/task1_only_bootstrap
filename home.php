@@ -2,7 +2,7 @@
 include ("app.php");
 
 ?>
-   <div class="container">			
+<div class="container">			
 	<br/>
 	<div class="row">
 	<div class="col-xs-2">
@@ -19,9 +19,9 @@ include ("app.php");
 			<!-- deklarasi carousel -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img src="img/mario-bros.gif" alt="Example 1">
+					<img src="img/bear.gif" alt="Example 1">
 					<div class="carousel-caption">
-						<h3> Mario Bros</h3>
+						<h3>Bear</h3>
 						
 					</div>
 				</div>
@@ -52,14 +52,15 @@ include ("app.php");
    		<br>
 	   		Hello saya Ari dan saya baru lulus dari smk, salam kenal ya. Berikut contoh dari hasil design grafik yang saya buat
 	   </div>
-	   <div class="col-xs-4"></div>
 	   <div class="col-xs-4">
-	   <br>
-	   		Twitter : arifakhriwilaga
-	   		<br>
-	   		Telpon : 083-823-923-64
-	   		<br>
-	   		Alamat : Sanggar Alam Indah Pinus 
 	   </div>
+	   <div class="col-xs-4">
+		<br>
+			Twitter : arifakhriwilaga
+		<br>
+	   		Telpon : 083-823-923-64
+   		<br>
+	   		Alamat : Alam Sanggar Indah Bandung Barat	   
+	   	</div>
 	</div>
-   </div>
+</div>
