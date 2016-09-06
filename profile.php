@@ -1,17 +1,13 @@
 <?php
 include ("app.php");
-
 ?>
-
-
-   <div class="container">			
-	
-	  <div class="row">
+<div class="container">				
+	<div class="row">
    		<div class="col-xs-4">
-   		<h2>Ari Fakhri Wilaga</h2>
-   		<img src="img/profile.gif" class="img-circle" width="200px" height="200px" alt="Responsive image">
+	   		<h2>Ari Fakhri Wilaga</h2>
+	   		<img src="img/profile.gif" class="img-circle" width="200px" height="200px" alt="Responsive image">
 	   </div>
-	   <div class="col-xs-8">
+	   	<div class="col-xs-8">
 	   		<table class="table table-hover">
  				<tr class="active">
  					<td width="450px"><b>Nama</b></td>
@@ -30,6 +26,6 @@ include ("app.php");
  					<td>Alam Sanggar Indah Pinus Citapen-Bandung Barat</td>
  				</tr>
 			</table>
-	   </div>
+	   	</div>
 	</div>
-   </div>
+</div>
